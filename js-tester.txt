@@ -1,0 +1,11 @@
+// Hello, world.
+
+  const hello = []
+  hello.push("First Journey")
+
+// Result.
+
+  const hello = [ "First Journey" ]
+  console.log(hello[0])
+
+// Output: First Journey
